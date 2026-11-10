@@ -1,0 +1,12 @@
+# 个人实验数据与照片不入库
+*.jpg
+*.jpeg
+*.png
+crops/
+src/
+examples/
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
